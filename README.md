@@ -2,7 +2,11 @@
 
 Unofficial code for paper "Generative Adversarial Nets" for creating fake faces
 
+### Loss vs epochs
+
 ![](images/loss.png)
+
+### Generated faces
 
 ![](images/faces.png)
 
