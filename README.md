@@ -1,2 +1,3 @@
 # GAN Face Generation
-GAN for creating artificial faces
+
+Unofficial code for paper "Generative Adversarial Nets" for creating fake faces
