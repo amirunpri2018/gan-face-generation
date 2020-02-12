@@ -2,6 +2,10 @@
 
 Unofficial code for paper "Generative Adversarial Nets" for creating fake faces
 
+![](images/loss.png)
+
+![](images/faces.png)
+
 ## Contacts
 
 If you want to keep updated with my latest articles and projects follow me on Medium. These are some of my contacts details:
