@@ -1,6 +1,6 @@
 # GAN Face Generation
 
-Unofficial code for paper "Generative Adversarial Nets" applied to create fake faces
+Implementation of the paper "Generative Adversarial Nets" applied to create fake faces
 
 ### Loss vs epochs
 
